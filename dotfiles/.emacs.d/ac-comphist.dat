@@ -1,0 +1,42 @@
+((("moccur-use-migemo" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("executable-find" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("and" .
+   [1 0 0])
+  ("dmoccur-exclusion-mask" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("moccur-split-word" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("moccur-split-string" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [1 0 0 1])
+  ("occur-by-moccur" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("kbd" .
+   [1 0 0])
+  ("global-map" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("define-key" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("nil" .
+   [3 0 0])
+  ("require" .
+   [0 0 0 1 1 0 1])
+  ("when" .
+   [2 0 0 0])
+  ("color-moccur" .
+   [1 0 0 0 0 0 0 0 0 0 0 1])
+  ("delete-frame" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("defun" .
+   [0 0 0 0 1])
+  ("init-loader" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("moccur" .
+   [1 0 0 0 0 0])
+  ("moccur-edit" .
+   [0 0 0 0 1 0 0 0 0 0 0])))
